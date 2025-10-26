@@ -1,0 +1,24 @@
+[
+  {
+    "Model": "LogR",
+    "Train Accuracy": 0.6661222267592215,
+    "Train Precision": 0.6511908733380204,
+    "Train Recall": 0.6661222267592215,
+    "Train F1 Score": 0.6519857579889318,
+    "Test Accuracy": 0.6647052413642802,
+    "Test Precision": 0.6498677827521201,
+    "Test Recall": 0.6647052413642802,
+    "Test F1 Score": 0.650992247928589
+  },
+  {
+    "Model": "DT",
+    "Train Accuracy": 0.6809309922417314,
+    "Train Precision": 0.6741409729277646,
+    "Train Recall": 0.6809309922417314,
+    "Train F1 Score": 0.6749231735531256,
+    "Test Accuracy": 0.6727688787185355,
+    "Test Precision": 0.6668964050944504,
+    "Test Recall": 0.6727688787185355,
+    "Test F1 Score": 0.667812724760396
+  }
+]
